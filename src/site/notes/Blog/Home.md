@@ -4,12 +4,13 @@
 
 
 # Welcome to my digital garden
-Hello may name is Shermayster Pavel, I'm Senior Software Developer at Sage. I'm writing about JavaScript, TypeScript, React, Software Architecture and Management.
+Hello my name is Shermayster Pavel, I'm Senior Software Developer at Sage. I write about JavaScript, TypeScript, React, Software Architecture and Management.
 
-You can find at: 
+You can find me at: 
 [Twitter](https://twitter.com/ShermPavel)
 [LinkedIn](www.linkedin.com/in/shermpavel)
 [Github](https://github.com/Shermayster)
+shermayster@protonmail.com
 
 My Posts:
 [[Blog/IndexedDB\|IndexedDB]]
