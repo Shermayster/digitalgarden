@@ -12,6 +12,7 @@ You can find at:
 [Github](https://github.com/Shermayster)
 
 My Posts:
+[[Blog/IndexedDB\|IndexedDB]]
 [[Blog/React - thunk reducer\|React - thunk reducer]]
 [[Blog/Create custom render function for more scalable tests in your React app\|Create custom render function for more scalable tests in your React app]]
 [[Blog/How to download image with JS and Fetch API\|How to download image with JS and Fetch API]]
