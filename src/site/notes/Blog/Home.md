@@ -13,6 +13,7 @@ You can find me at:
 shermayster@protonmail.com
 
 My Posts:
+[[Blog/Clean Code\|Clean Code]]
 [[Blog/IndexedDB\|IndexedDB]]
 [[Blog/React - thunk reducer\|React - thunk reducer]]
 [[Blog/Create custom render function for more scalable tests in your React app\|Create custom render function for more scalable tests in your React app]]
