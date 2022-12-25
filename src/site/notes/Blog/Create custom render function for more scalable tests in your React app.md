@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/create-custom-render-function-for-more-scalable-tests-in-your-react-app/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/blog/create-custom-render-function-for-more-scalable-tests-in-your-react-app/"}
 ---
 
 
