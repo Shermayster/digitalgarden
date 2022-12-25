@@ -4,9 +4,9 @@
 
 
 Any React application will have global providers with. It can be styles, state or translation.
-Testing those things can be tricky. Adding them can break our test. What's why we should add custom render function to our application.
+Testing those things can be tricky. Adding them can break our tests. Here's why we should add a custom render function to our application.
 
-Here is an example with translation. But it can any configuration and you can more layers in future without breaking your tests.
+The following is an example of a translation library. But it can be any configuration and you can add more layers in the future without breaking your tests.
 
 <iframe
   src="https://codesandbox.io/embed/custom-testing-render-forked-t9zs6?fontsize=14&hidenavigation=1&theme=dark&view=editor"
