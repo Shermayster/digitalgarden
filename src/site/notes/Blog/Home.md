@@ -13,6 +13,7 @@ You can find me at:
 shermayster@protonmail.com
 
 My Posts:
+[[Blog/How to Learn\|How to Learn]]
 [[Blog/Clean Code\|Clean Code]]
 [[Blog/IndexedDB\|IndexedDB]]
 [[Blog/React - thunk reducer\|React - thunk reducer]]
