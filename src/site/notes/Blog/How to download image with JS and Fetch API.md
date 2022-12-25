@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/how-to-download-image-with-js-and-fetch-api/","tags":"gardenEntry"}
 ---
 
-
+#webplatform
 First, make sure that response has 'Content-Disposition' header.
 
 ```javascript
