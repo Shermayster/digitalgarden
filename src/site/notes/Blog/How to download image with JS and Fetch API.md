@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/how-to-download-image-with-js-and-fetch-api/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-permalink":"js/download-image-with-js","permalink":"/js/download-image-with-js/"}
 ---
 
 #webplatform
