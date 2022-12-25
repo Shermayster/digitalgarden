@@ -7,8 +7,7 @@ How to use scan operator in RxJS and how it's different from reduce operator
 
 # Scan operator is an accumulator
 
-Scan operator accumulates emitted values.
-It will emit accumulated result on every value.
+Scan operator is like `Array.reduce` method. It accumulates emitted values and will emit the total result for every value.
 
 Here's an example:
 
