@@ -32,6 +32,8 @@ module.exports = async() => {
         themeStyle: themeStyle,
         baseTheme: process.env.BASE_THEME || "dark",
         siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
+        linkedIn: process.env.LINKED_IN_LINK || '',
+        twitter: process.env.TWITTER_LINK || '',
         siteBaseUrl: baseUrl,
     };
 
