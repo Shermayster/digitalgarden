@@ -4,7 +4,7 @@
 
 How to use scan operator in RxJS and how it's different from reduce operator
 
-
+#rxjs
 # Scan operator is an accumulator
 
 Scan operator accumulates emitted values.
