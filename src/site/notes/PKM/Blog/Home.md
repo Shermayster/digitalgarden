@@ -12,6 +12,9 @@ You can find me at:
 [Github](https://github.com/Shermayster)
 shermayster@protonmail.com
 
+Notes on learning:
+[[PKM/1.Projects/Advance Redux/Redux\|Redux]]
+
 My Posts:
 [[PKM/Blog/How to Learn\|How to Learn]]
 [[PKM/Blog/Clean Code\|Clean Code]]
