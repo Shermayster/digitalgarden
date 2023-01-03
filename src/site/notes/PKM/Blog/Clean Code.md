@@ -31,6 +31,6 @@ Tip: Minimize the number of entities (functions, classes, modules, etc.)There ar
 
 Tip: Functions should do one thingEach function you write should be focused on doing one thing. If a function is doing multiple things, it becomes more difficult to generalize and reuse. Generally, if there's an "and" in your function name, consider refactoring.
 
-	 - ____{:tag :h4}Tip: Arbitrary variable names can be more effective in certain functionsArbitrary variable names in general functions can actually make the code more readable.
+- Tip: Arbitrary variable names can be more effective in certain functionsArbitrary variable names in general functions can actually make the code more readable.
 
-	 - ____{:tag :h4}Tip: Try to use fewer than three arguments per functionTry to use no more than three arguments when possible. This is not a hard rule and there are times it is more appropriate to use many parameters. But in many cases, it's more effective to use fewer arguments. Remember we are modularizing to simplify our code and make it more efficient to work with. If your function has a lot of parameters, you may want to rethink how you are splitting this up.__
+- Tip: Try to use fewer than three arguments per functionTry to use no more than three arguments when possible. This is not a hard rule and there are times it is more appropriate to use many parameters. But in many cases, it's more effective to use fewer arguments. Remember we are modularizing to simplify our code and make it more efficient to work with. If your function has a lot of parameters, you may want to rethink how you are splitting this up.
