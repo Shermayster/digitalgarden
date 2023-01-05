@@ -15,6 +15,8 @@ shermayster@protonmail.com
 Notes on learning:
 [[PKM/1.Projects/Advance Redux/Redux\|Redux]]
 
+Notes: 
+[[PKM/Blog/Why to use XState?\|Why to use XState?]]
 My Posts:
 [[PKM/Blog/How to Learn\|How to Learn]]
 [[PKM/Blog/Clean Code\|Clean Code]]
