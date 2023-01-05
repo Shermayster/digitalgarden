@@ -3,11 +3,12 @@
 ---
 
 # Redux
+[[4.Archive/React\|React]]
+
 
 # **Fundamentals of Redux**
 
 Principles:
-
 1. Describe state of your application as single javascript object
 2. State tree should be readonly. When you need to update state tree, user action. Only requirement for action is to have `type`  property. You free to use any structure to action. 
 3. State mutation should be described with pure function. State mutation should be with previous state, actions and should return new state. This function is called the reducer
@@ -51,7 +52,7 @@ course link: [https://frontendmasters.com/courses/redux\-fundamentals](https://f
 material: [https://stevekinney.github.io/redux\-fundamentals/](https://stevekinney.github.io/redux-fundamentals/)
 
 Redux has much more functionality than useReducer
-![Screen_Shot_2022-02-10_at_13-06-16.png](data:image/md;base64,)
+![Screen_Shot_2022-02-10_at_13-06-16.png](image/Screen_Shot_2022-02-10_at_13-06-16.png)
 
 **Redux API**
 
