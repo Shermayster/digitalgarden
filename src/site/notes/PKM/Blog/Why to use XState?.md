@@ -22,4 +22,4 @@ Use cases:
 - Learning curve. It's a powerful library, but it takes time to learn. There are good courses on Frontend Masters. 
 
 ### Resources:
-- https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript
+- [https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript](https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript)
