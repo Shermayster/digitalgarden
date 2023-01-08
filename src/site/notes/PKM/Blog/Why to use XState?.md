@@ -14,7 +14,7 @@ Use cases:
 	 - Logic reuse 
 	 - robust dev tools
 - It's readable. Logic and flow is easy to understand.
-- It's much harder to make a bug with Xtate. 
+- It's much harder to make a bug with Xstate. 
 
 ### Cons
 - TypeScript and Xstate is hard to get work together. They trying to solve it, but it's very challenging.
