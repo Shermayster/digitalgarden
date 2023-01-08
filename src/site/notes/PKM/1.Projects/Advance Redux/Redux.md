@@ -8,7 +8,7 @@
 
 Principles:
 1. Describe state of your application as single javascript object
-2. **State tree should be readonly**. When you need to update state tree, user action. Only requirement for action is to have `type`  property. You free to use any structure to action. 
+2. **State tree should be readonly**. When you need to update state tree, user action. Only requirement for action is to have `type` property. You free to use any structure to action. 
 3. **State mutation should be described with pure function.** State mutation should be with previous state, actions and should return new state. This function is called the reducer
 
 Basic Redux implementation
@@ -295,7 +295,6 @@ HOC:
 
 ## Advanced Redux
 Links:
-/link
 - [https://github.com/stevekinney/supertasker](https://github.com/stevekinney/supertasker)
 - [https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux](https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux)
 
