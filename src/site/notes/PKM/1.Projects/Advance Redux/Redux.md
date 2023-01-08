@@ -295,8 +295,9 @@ HOC:
 
 ## Advanced Redux
 Links:
-- https://github.com/stevekinney/supertasker
-- https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux
+/link
+- [https://github.com/stevekinney/supertasker](https://github.com/stevekinney/supertasker)
+- [https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux](https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux)
 
 
 
