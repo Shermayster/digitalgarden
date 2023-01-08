@@ -276,7 +276,7 @@ const actions = useActions({ increment, decrement, set });
 
 ## **hooks vs HOC**
 
-/Hooks are:
+Hooks are:
 
 -  Pros:
     - simpler to work with. 
