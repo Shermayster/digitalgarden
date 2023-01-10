@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"react/thunk-reducer","permalink":"/react/thunk-reducer/"}
 ---
 
-
+#React 
 Thunk is a powerful pattern that allows us to reduce logic inside UI components and integrate external function within React. 
 
 Let's start with regular example. We have react component and we want to fetch data:
