@@ -17,11 +17,11 @@ shermayster@protonmail.com
 [[PKM/1.Projects/Advance Redux/Redux\|Redux]]
 [[PKM/Blog/Why to use XState?\|Why to use XState?]]
 [[PKM/Blog/Saga Pattern\|Saga Pattern]]
-
-### My Posts:
-[[PKM/Blog/How to Learn\|How to Learn]]
-[[PKM/Blog/Clean Code\|Clean Code]]
 [[PKM/Blog/IndexedDB\|IndexedDB]]
+[[PKM/Blog/Clean Code\|Clean Code]]
+
+### Posts:
+[[PKM/Blog/Feyman Learning Technique\|Feyman Learning Technique]]
 [[PKM/Blog/React - thunk reducer\|React - thunk reducer]]
 [[PKM/Blog/Create custom render function for more scalable tests in your React app\|Create custom render function for more scalable tests in your React app]]
 [[PKM/Blog/How to download image with JS and Fetch API\|How to download image with JS and Fetch API]]
