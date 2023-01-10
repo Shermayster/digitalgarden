@@ -9,7 +9,7 @@ Originally come for databases. Sagas is a Long Lived Transactions
 > A Saga is a **Long Lived Transaction** that can be written as a sequence of transactions that can be interleaved.
    All transactions in the sequence complete successfully or compensating transactions are ran to amend a partial execution.
 
-We can describe Saga as a collection of sub-transactions. The first step towards Saga is breaking down a transaction into small sub-transactions. It should not be possible for them to rely on each other or receive input from one another. Each sub-transaction has its own compensation transaction, and they shouldn't depend on each other as well. 
+We can describe Saga as a collection of sub-transactions. The first step towards Saga is breaking down a transaction into small sub-transactions. It should **not** be possible for them to rely on each other or receive input from one another. Each sub-transaction has its own compensation transaction, and they shouldn't depend on each other as well. 
 In some cases, there is no way to return to the previous state in case of failure.
 
 > Trade-Off: Atomicity for Availability
