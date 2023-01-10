@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-permalink":"pattern/saga-pattern","permalink":"/pattern/saga-pattern/"}
 ---
 
-https://www.youtube.com/watch?v=xDuwrtwYHu8
-http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
-Originally come for databases. Sagas is a Long Lived Transactions
+[https://www.youtube.com/watch?v=xDuwrtwYHu8](https://www.youtube.com/watch?v=xDuwrtwYHu8)
+[http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+Originally come for databases. Sagas is a Long Lived Transactions.
 
 > A Saga is a **Long Lived Transaction** that can be written as a sequence of transactions that can be interleaved.
    All transactions in the sequence complete successfully or compensating transactions are ran to amend a partial execution.
