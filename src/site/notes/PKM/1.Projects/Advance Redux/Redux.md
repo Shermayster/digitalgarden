@@ -274,7 +274,7 @@ const actions = useActions({ increment, decrement, set });
 ```
 
 
-## **hooks vs HOC**
+## **Hooks vs HOC**
 
 Hooks are:
 
@@ -294,6 +294,14 @@ HOC:
     - a bit overkill
 
 ## Advanced Redux
+### Why to use RTK
+It reduce required boilerplate and gives opinionated way to work with Redux.  
+
+### Redux Saga
+based on [[PKM/Blog/Saga Pattern\|Saga Pattern]]:
+
+
+
 Links:
 - [https://github.com/stevekinney/supertasker](https://github.com/stevekinney/supertasker)
 - [https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux](https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux)
