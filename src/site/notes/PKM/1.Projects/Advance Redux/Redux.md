@@ -294,6 +294,7 @@ HOC:
     - a bit overkill
 
 ## Advanced Redux
+
 ### Why to use RTK
 It reduce required boilerplate and gives opinionated way to work with Redux.  
 
