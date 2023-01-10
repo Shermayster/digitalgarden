@@ -298,7 +298,7 @@ HOC:
 It reduce required boilerplate and gives opinionated way to work with Redux.  
 
 ### Redux Saga
-based on [[PKM/Blog/Saga Pattern\|Saga Pattern]]:
+Redux middleware based on [[PKM/Blog/Saga Pattern\|Saga Pattern]]
 
 
 
