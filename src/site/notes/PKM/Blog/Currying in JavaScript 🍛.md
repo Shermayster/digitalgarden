@@ -4,6 +4,8 @@
 
 ---
 [[2023-01-14\|2023-01-14]]
+# Currying in JavaScript 🍛
+
 ## What is Currying?
 
 With carrying we can transform function that takes multiple arguments intro **sequence of functions** that takes one argument.
