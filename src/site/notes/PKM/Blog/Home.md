@@ -21,6 +21,7 @@ shermayster@protonmail.com
 [[PKM/Blog/Clean Code\|Clean Code]]
 
 ### Posts:
+[[PKM/Blog/Currying in JavaScript 🍛\|Currying in JavaScript 🍛]]
 [[PKM/Blog/How to extract values from HTML form\|How to extract values from HTML form]]
 [[PKM/Blog/Feyman Learning Technique\|Feyman Learning Technique]]
 [[PKM/Blog/React - thunk reducer\|React - thunk reducer]]
