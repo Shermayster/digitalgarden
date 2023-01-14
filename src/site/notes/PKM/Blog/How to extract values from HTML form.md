@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-permalink":"webplatform/extract-values-from-form","permalink":"/webplatform/extract-values-from-form/"}
 ---
 
+# How to extract values from HTML form
 [[2023-01-14\|2023-01-14]]
 Working with JS frameworks like React, Vue Svelte, and Angular, we sometimes forget how much the browser's native API can give us.
 Tracking all control inputs with JS framework and state management can be useful, but sometimes your app doesn't need that extra complexity.
