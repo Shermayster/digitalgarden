@@ -62,7 +62,7 @@ Redux has much more functionality than useReducer
 
 **Compose**
 
-It's just a helper function. compose takes a series of functions as arguments and returns a new function that applies each those functions from right\-to\-left \(or, from last\-to\-first if you're like me and have trouble discerning right from left\).
+It's just a helper function. compose takes a series of functions as arguments and returns a new function that applies each those functions from right\-to\-left.
 
 ```javascript
 const makeLouder = (string) => string.toUpperCase();
@@ -119,21 +119,19 @@ const add = (number) => ({ type: ADD, payload: number });
 ```
 
 **Some Rules for Reducers**
-
 - No mutating objects. If you touch it, your replace it.
 - You have to return something and ideally, it should be the unchanged state if there is nothing you need to do it.
 - It's just a JavaScript function
 
 **Redux Store API**
 
-- dispatch
-- subscribe
-- getState
-- replaceReducer
+- `dispatch`
+- `subscribe`
+- `getState`
+- `replaceReducer`
 
-We made some initial state. We made the outlined some things that could happen to that state. We even defined what should happen to the state when those actions happen.
 
-So, **how do we get actions into that reducer to modify the state?** Well, we dispatch them.
+So, **how do we get actions into that reducer to modify the state?** we dispatch them.
 
 ```javascript
 store.dispatch(action);
@@ -161,7 +159,6 @@ store.dispatch(add(1000)); // (Silence)
 ```
 
 **Enhancers** 
-
 An enhancer is a function that **allows you to add functionality** to Redux that it doesn't come with out of the box. We'll see this when we want to hook it up to the developer tools or when we want add some the ability to do asynchronous tasks \(e.g. make a server\-side HTTP requests\).
 
  A function that doing side effects and running actual action. **Example of enhancer: Redux DevTools**
@@ -209,7 +206,7 @@ const someMiddleware = (store) => (next) => (action) => {
 };
 ```
 
-`next`is either the next piece of middleware or it's store.dispatch. **If you don't call next, you will swallow the action and it will never hit the reducer.**
+`next` is either the next piece of middleware or it's store.dispatch. **If you don't call next, you will swallow the action and it will never hit the reducer.**
 
 Here is a quick example:
 
@@ -276,6 +273,7 @@ const actions = useActions({ increment, decrement, set });
 
 ## **Hooks vs HOC**
 
+
 Hooks are:
 
 -  Pros:
@@ -285,7 +283,6 @@ Hooks are:
     - the code more coupled and require to bring redux store to test the component
 
 HOC:
-
 - Pros:
     - easy to test
     - storybook integration
@@ -294,6 +291,9 @@ HOC:
     - a bit overkill
 
 ## Advanced Redux
+Links:
+- [https://github.com/stevekinney/supertasker](https://github.com/stevekinney/supertasker)
+- [https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux](https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux)
 
 ### Why to use RTK
 It reduce required boilerplate and gives opinionated way to work with Redux.  
@@ -301,11 +301,6 @@ It reduce required boilerplate and gives opinionated way to work with Redux.
 ### Redux Saga
 Redux middleware based on [[PKM/Blog/Saga Pattern\|Saga Pattern]]
 
-
-
-Links:
-- [https://github.com/stevekinney/supertasker](https://github.com/stevekinney/supertasker)
-- [https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux](https://github.com/stevekinney/Frontend-Masters-November-2022/tree/main/Advanced%20Redux)
 
 
 
