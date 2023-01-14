@@ -5,6 +5,8 @@
 # Notes on ECMAScript 2022
 
 ## Private class member
+Allows to incapsulate class property.
+
 ```javascript
 class Car {  
   #engine = 1;  
@@ -18,6 +20,7 @@ console.log(myCar.#engine) // undefined
 ```
 
 ## Static class member
+
 ```javascript
 class Car {  
   engine = 1;  
@@ -46,7 +49,7 @@ console.log('asyncTask state:', state); // asyncTask state: done
 ```
 
 ## .at() method
-
+Similar to `array[index]` , but supporting negative values. 
 ```javascript
 const arr = ['a', 'b', 'c', 'd', 'e'];  
 console.log(arr.at(1)); // b  
@@ -54,7 +57,7 @@ console.log(arr.at(-1)); // e
 ```
 
 ## Object.hashOwn() method
-the method is useful to check if an object has an own property non-inherited property
+the method is useful to check if an object has an own property non-inherited property.
 ```javascript
 const objPrototype = {  
   protoProp: 'protoProp',  
