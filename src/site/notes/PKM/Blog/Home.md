@@ -8,7 +8,7 @@ Hello my name is Shermayster Pavel, I'm Senior Software Developer at Sage. I wri
 
 You can find me at: 
 [Twitter](https://twitter.com/ShermPavel)
-[LinkedIn](www.linkedin.com/in/shermpavel)
+[LinkedIn](https://www.linkedin.com/in/shermpavel)
 [Github](https://github.com/Shermayster)
 shermayster@protonmail.com
 
@@ -21,6 +21,7 @@ shermayster@protonmail.com
 [[PKM/Blog/Clean Code\|Clean Code]]
 
 ### Posts:
+[[PKM/Blog/How to extract values from HTML form\|How to extract values from HTML form]]
 [[PKM/Blog/Feyman Learning Technique\|Feyman Learning Technique]]
 [[PKM/Blog/React - thunk reducer\|React - thunk reducer]]
 [[PKM/Blog/Create custom render function for more scalable tests in your React app\|Create custom render function for more scalable tests in your React app]]
