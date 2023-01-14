@@ -30,8 +30,5 @@ shermayster@protonmail.com
 [[PKM/Blog/How to download image with JS and Fetch API\|How to download image with JS and Fetch API]]
 [[PKM/Blog/RxJS - scan operator\|RxJS - scan operator]]
 
-In progress:
-[[PKM/Blog/You don't want to be top performer\|You don't want to be top performer]]
-[[PKM/Blog/Procrastination is your friend\|Procrastination is your friend]]
 
 
