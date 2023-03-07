@@ -3,7 +3,7 @@
 ---
 
 
-# Digital Garden 🌴
+# Digital Garden 
 Hello my name is Shermayster Pavel, I'm Senior Software Developer at Sage. I write about JavaScript, TypeScript, React, Software Architecture and Management.
 
 You can find me at: 
