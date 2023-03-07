@@ -4,7 +4,12 @@
 
 # Domain Driven Design
 
+DDD is a way to design software program. It most useful then you have to deal with complex domain so it helps to reduce complexity of the system. If domain is not complex, you should consider to use another software architecture technic.
 
+## Three most important concepts in DDD
+- Bounded context
+- Ubiquitous language
+- Focus on Domain model
 
 Domain centric architecture
 
