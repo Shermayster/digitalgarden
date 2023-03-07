@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pkm/blog/home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/pkm/blog/home/","tags":["gardenEntry"]}
 ---
 
 
@@ -14,14 +14,15 @@ shermayster@protonmail.com
 
 
 ### Notes: 
-[[PKM/1.Projects/Advance Redux/Redux\|Redux]]
+[[PKM/1.Projects/Learning/Redux\|Redux]]
 [[PKM/Blog/Why to use XState?\|Why to use XState?]]
 [[PKM/Blog/Saga Pattern\|Saga Pattern]]
 [[PKM/Blog/IndexedDB\|IndexedDB]]
 [[PKM/Blog/Clean Code\|Clean Code]]
+[[PKM/Blog/Domain Driven Design\|Domain Driven Design]]
 
 ### Posts:
-[[Notes on ECMAScript 2022 new features\|Notes on ECMAScript 2022 new features]]
+[[PKM/Blog/Notes on ECMAScript 2022 new features\|Notes on ECMAScript 2022 new features]]
 [[PKM/Blog/Currying in JavaScript 🍛\|Currying in JavaScript 🍛]]
 [[PKM/Blog/How to extract values from HTML form\|How to extract values from HTML form]]
 [[PKM/Blog/Feyman Learning Technique\|Feyman Learning Technique]]
