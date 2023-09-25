@@ -14,6 +14,7 @@ shermayster@pm.me
 
 
 ### Notes: 
+[[Notes/Blog/Notes on Software Architecture\|Notes on Software Architecture]]
 [[Notes/Blog/Notes on TypeScript\|Notes on TypeScript]]
 [[Notes/1.Projects/React Lectures/Redux\|Redux]]
 [[Notes/Blog/Why to use XState?\|Why to use XState?]]
