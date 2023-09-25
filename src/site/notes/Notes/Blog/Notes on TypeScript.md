@@ -47,7 +47,7 @@ type Obj2 = {b: number};
 
 type Obj3 = Obj1 & Obj2; // { a: string; b: number; }
 ```
-```
+```typescript
 type A = { a: string };
 type KeyOfA = keyof A; // => 'a'
 
@@ -59,7 +59,7 @@ type KeyOfC = keyof C; // => 'a' | 'b'
 ```
 
 Here is the general rule:
-```
+```typescript
 keyof (A & B) = (keyof A) | (keyof B)
 
 keyof (A | B) = (keyof A) & (keyof B)
@@ -67,7 +67,7 @@ keyof (A | B) = (keyof A) & (keyof B)
 
 ### Caveats of intersections of objects
 1. Don’t merge objects with overlapping properting with diffrent type 
-```
+```typescript
 type WithName = { name: string; id: string };
 type WithAge = { age: number; id: number };
 type User = WithName & WithAge;
@@ -83,7 +83,7 @@ Just like Object types, Records also represent sets of objects. The difference i
 Or without using Record:
 `type InputState = { [Key in “valid” | “edited” | “focused”]: boolean };`
 The **Partial** generic takes an object type and returns another one that’s identical except that all of its properties are optional:
-```
+```typescript
 type Props = { value: string; focused: boolean; edited: boolean };
 
 type PartialProps = Partial<Props>;
@@ -91,7 +91,7 @@ type PartialProps = Partial<Props>;
 type PartialProps = { value?: string; focused?: boolean; edited?: boolean };
 ```
 The **Required** generic does the opposite of Partial. It takes an object and returns another one that’s identical except that all of its properties are required:
-```
+```typescript
 type Props = { value?: string; focused?: boolean; edited?: boolean };
 type RequiredProps = Required<Props>;
 // is equivalent to:
@@ -99,7 +99,7 @@ type RequiredProps = { value: string; focused: boolean; edited: boolean
 ```
 
 The **Pick** generic removes all keys that aren’t assignable to the type of key given as second argument:
-```
+```typescript
 type Props = { value: string; focused: boolean; edited: boolean };
 
 type ValueProps = Pick<Props, “value”>;
@@ -112,7 +112,7 @@ type SomeProps = { value: string; focused: boolean };
 ```
 
 The **Omit** generic removes all object properties that are assignable to the type given as second argument. It does the **opposite of Pick!**
-```
+```typescript
 type Props = { value: string; focused: boolean; edited: boolean };
 
 type ValueProps = Omit<Props, “value”>;
