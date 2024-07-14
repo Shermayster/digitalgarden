@@ -12,6 +12,8 @@ You can find me at:
 [Github](https://github.com/Shermayster)
 shermayster@pm.me
 
+### Dev logs:
+2024-07-14 [[Blog/dev logs/Some tips to work with threads in web platform\|Some tips to work with threads in web platform]]
 
 ### Notes: 
 [[Blog/Notes on Software Architecture\|Notes on Software Architecture]]
